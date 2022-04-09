@@ -27,6 +27,6 @@ eureka:
     instance-id: springcloud-provider-dept-8082 #修改Eureka上的默认描述信息
 
 #info配置
-#info:
-#  app.name: lzh-springcloud #项目的名称
-#  company.name: com.lzh #公司的名称
+info:
+  app.name: falltwo-springcloud #项目的名称
+  company.name: com.falltwo #公司的名称
